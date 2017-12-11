@@ -1,6 +1,6 @@
 # data-512-finalProject
-Rajiv Veeraraghavan
-December 10th 2017
+Rajiv Veeraraghavan  
+December 10th 2017  
 
 # Introduction
 
@@ -26,13 +26,13 @@ I explore these datasets and create visualizations to better understand the crim
 
 # Source of Data
 
-911 Incidents Data -  https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp (sample of this data is available in the repository)
-Population Data - https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk
+911 Incidents Data -  https://data.seattle.gov/Public-Safety/Seattle-Police-Department-911-Incident-Response/3k2p-39jp (sample of this data is available in the repository)  
+Population Data - https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?src=bkmk  
 
 # Licence of the Data
 
-911 Incidents Data -  CC0 1.0 Universal (CC0 1.0) - https://creativecommons.org/publicdomain/zero/1.0/
-Population Data - https://www.census.gov/data/developers/about/terms-of-service.html
+911 Incidents Data -  CC0 1.0 Universal (CC0 1.0) - https://creativecommons.org/publicdomain/zero/1.0/  
+Population Data - https://www.census.gov/data/developers/about/terms-of-service.html  
 
 # Google Maps API for heatmap Visualization
 One of the visualizaitons in the jupyter notebook leverages the googlemaps heatmap API. You can find more documentations about it here - https://developers.google.com/maps/documentation/javascript/examples/layer-heatmap
